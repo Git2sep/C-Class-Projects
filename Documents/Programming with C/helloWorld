@@ -1,5 +1,7 @@
-int main(void){
-
- printf("hello world");
+int main(void)
+{
+ int a;
+ printf("Input a Number");
+ scanf("%d",a);
  return (0);
 }
